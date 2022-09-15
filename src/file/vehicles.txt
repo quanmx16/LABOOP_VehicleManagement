@@ -1,0 +1,5 @@
+C|C1|Toyota 1|Green|100.0|Toyota|Sport|2020
+C|C2|Lamborghini 1|Yellow|10.0|Lamborghini|Sport|2022
+M|M2|Exciter|Red|15.0|Yamaha|99.0|false
+C|C3|LUX2.0|Grey|500.0|VinFast|Sport|2019
+M|M1|Airblade2018|Black|30.0|Honda|80.0|true
